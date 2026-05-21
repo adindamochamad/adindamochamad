@@ -13,17 +13,23 @@
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 ```typescript
 const panca = {
     name: "Panca",
     role: "Backend Engineer",
     specialty: "Mission-Critical Systems Architecture",
+    
     experience: [
         "Government Systems Architecture",
         "Enterprise ERP Solutions",
         "AI-Driven IoT Infrastructure",
         "Autonomous AI Agents & Payment Systems"
     ],
+    
     expertise: {
         languages: ["PHP", "Python", "R", "C++", "JavaScript"],
         databases: ["MySQL", "PostgreSQL", "Redis"],
@@ -36,16 +42,33 @@ const panca = {
             "Payment Infrastructure"
         ]
     },
-    currentProjects: {
-        omnibridge: "AI agent for legacy serial device protocols",
-        AgentPay: "Payment infrastructure for autonomous AI agents",
-        codebuddy: "AI Coding Tutor for Indonesian students",
-        guardrailAI: "Guardrail platform for AI-generated code"
-    },
-    philosophy: "Building robust, scalable solutions that power mission-critical systems 
-                 and drive real-world impact through innovative technology."
+    
+    philosophy: "Building robust, scalable solutions that 
+                 power mission-critical systems and drive 
+                 real-world impact through innovative tech."
 };
 ```
+
+</td>
+<td width="40%">
+
+**🎯 Current Focus**
+
+🤖 Building AI-powered infrastructure  
+💳 Payment systems for autonomous agents  
+🏛️ Mission-critical government systems  
+📚 Education tech for Indonesian students
+
+**📊 Quick Stats**
+
+⭐ 41 stars on featured project  
+🔧 41 public repositories  
+🌟 2 GitHub achievements  
+🚀 Active in AI/IoT hackathons
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Tech Stack
 
